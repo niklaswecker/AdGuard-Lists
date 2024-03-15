@@ -1,6 +1,6 @@
 ! Whitelist - Domains
 
-# Tuxis
+# Tuxis 
 @@|pbs002.tuxis.nl^$important
 @@|pbs003.tuxis.nl^$important
 @@|tuxis.nl^$important
