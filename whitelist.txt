@@ -1,5 +1,8 @@
 ! Whitelist - Domains
 
+#TorAlarm
+@@|toralarm.com^$important
+
 # Adobe
 @@|activate.adobe.com^$important
 @@|assets.adobedtm.com^$important
